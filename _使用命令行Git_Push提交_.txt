@@ -1,0 +1,9 @@
+
+-- @20160418--
+使用Git Bash。
+$cd /d/usr/github/shm79/my-docs
+$git.exe push "origin" master:master
+输入用户名 shm79, 密码 普密+1。
+--
+由于tortoisegit的推送不成功, 则使用Git For Windows的命令行来推送(git push)到github上。
+【end】
